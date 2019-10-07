@@ -1,0 +1,35 @@
+body{
+    width: 100%;
+    margin: 0%;
+}
+
+h1{
+    margin: 0%;
+}
+
+header{
+    background-color: dodgerblue;
+    width: 100%;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+    margin: 0%;
+    padding: 10px;
+}
+
+li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    padding: 10px;
+}
+
+a:hover{
+    background-color: aliceblue;
+    padding: 10px;
+}
